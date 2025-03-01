@@ -4,7 +4,7 @@
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-black?style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/Styling-TailwindCSS-blue?style=flat-square)
 
-**A React-based interactive map built with Leaflet.js and React-Leaflet, styled with Tailwind CSS, and deployed on Vercel.**
+**A React-based interactive map built with Leaflet.js and React-Leaflet, styled with Tailwind CSS
 
 🌍 **Live Demo**: [Leaflet Interactive Map](https://your-live-demo-link.com)  
 
